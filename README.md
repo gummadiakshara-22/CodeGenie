@@ -1,4 +1,4 @@
-# **CodeGenie-G329-PS25**
+# **CodeGenie**
 ## 📌Purpose of our Project
 
 Our aim is to enhance developer productivity by integrating an **AI-powered code generation tool** directly into VS Code. This tool will allow developers to **generate context-aware code snippets** instantly by typing a prompt, leveraging the power of DeepSeek Coder (via Ollama) for AI-driven code suggestions.
@@ -58,7 +58,7 @@ Our aim is to enhance developer productivity by integrating an **AI-powered code
 ![Alt text](images/workflow.jpg)
 
 
-# 📌Summary Of Reseach Paper
+# 📌Summary
 1.**Introduction to DeepSeek-Coder**  
 DeepSeek-Coder is an open-source large language model (LLM) designed specifically for programming tasks. Unlike closed-source models like GPT-3.5 or Codex, it is openly available for research and commercial use. DeepSeek-Coder comes in multiple sizes, from 1.3B to 33B parameters, and is trained on 2 trillion tokens across 87 programming languages. The model is optimized for code generation, completion, and infilling and supports long-context understanding with 16K token windows.
 
@@ -130,21 +130,4 @@ DeepSeek-Coder is an open-source coding LLM, trained on a vast dataset covering 
 Uses Next Token Prediction & Fill-In-the-Middle (FIM) for code generation and completion.  
 Optimized architecture enables long-context understanding and efficient training.  
 Benchmark results show it outperforms CodeLlama, StarCoder, and even GPT-3.5 in some tasks.  
-Supports cross-file understanding, making it ideal for software development.  
-Has strong program-based math reasoning, beneficial for data science & AI applications.
-| No. | Name       | Mstn | Video Link                                       | PPT Link                                      |
-|-----|------------|------|--------------------------------------------------|-----------------------------------------------|
-| 1   | Sanjana    | 1    | [▶](https://youtu.be/PuW-eL2CU94)                | [📄](https://tinyurl.com/mvrchvxt)           |
-|     |            | 2    | [▶](https://youtu.be/j0y9y3iYvbo)                | [📄](https://tinyurl.com/yc3ukrr2)           |
-| 2   | Nischala   | 1    | [▶](https://youtu.be/Blr5t0T7KNI)                | [📄](https://tinyurl.com/3jc9kzzn)           |
-|     |            | 2    | [▶](https://youtu.be/6KSw23o2Bho)                | [📄](https://tinyurl.com/5523urdf)           |
-| 3   | Amulya     | 1    | [▶](https://youtu.be/4fE0m_aqEz0)                | [📄](https://tinyurl.com/56jmus7e)           |
-|     |            | 2    | [▶](https://youtu.be/NFWoY9R5Zzk)                | [📄](https://tinyurl.com/2wathpp6)           |
-| 4   | Shraddha   | 1    | [▶](https://youtu.be/bNaBBOZ65XU)                | [📄](https://tinyurl.com/42a4ufrz)           |
-|     |            | 2    | [▶](https://youtu.be/JaiYusulTZg)                | [📄](https://tinyurl.com/3turjdsn)           |
-| 5   | Deeshna    | 1    | [▶](https://youtu.be/A4tUmq-kHMM)                | [📄](https://tinyurl.com/3dazkdfz)           |
-|     |            | 2    | [▶](https://youtu.be/lZrzrV6P3KU)                | [📄](https://tinyurl.com/3cwp3p7x)           |
-| 6   | Keerthana  | 1    | [▶](https://youtu.be/ajR3YI0rprU)                | [📄](https://tinyurl.com/3efxh8b7)           |
-|     |            | 2    | [▶](https://youtu.be/rjzgzIpC-LI)                | [📄](https://tinyurl.com/mr8bm4n6)           |
-| 7   | Abhinavi   | 1    | [▶](https://youtu.be/8cE342UEfeg)                | [📄](https://tinyurl.com/jad9j585)           |                
-|     |            | 2    | [▶](https://youtu.be/XQK_rlVwIFU)                | [📄](https://tinyurl.com/4mp2necd)
+Supports cross-file understanding, making it ideal for software development
